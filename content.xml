@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260415213823J3JY2C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604152138236GNGK1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA: &quot;Cuidado del planeta: pasado y futuro&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776281875201</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo0gd6k1-nvu7xun1z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la Situación de Aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6k1-nvu7xun1z</odePageId>
+      <odeBlockId>block-1775810159705-gj5hf3mp0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6k1-nvu7xun1z</odePageId>
+          <odeBlockId>block-1775810159705-gj5hf3mp0</odeBlockId>
+          <odeIdeviceId>idevice-1775810159703-zgrr93n0x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Situación de Aprendizaje"Cuidado del planeta: pasado y futuro"</p>
+<p>Etapa: Secundaria. Curso: 1º ESO</p>
+<p>Materia: Biología y Geología</p>
+<p>Agrupamiento: pequeño grupo, gran grupo. Grupos heterogéneos; equipos flexibles.</p>
+<p>Temporalización: 10 sesiones. </p>
+<p>Descripción de los productos:</p>
+<p>- infografía en Canva: realización simultánea entre toda la clase utilizando una plantilla preparada  y compartida por la profesora. </p>
+<p>- breakout digital con Genially: dado que el nivel de competencia digital del alumnado es muy bajo, se facilitará material para ayudar en la realización de la tarea.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775810159703-zgrr93n0x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Situación de Aprendizaje\"Cuidado del planeta: pasado y futuro\"</p>\n<p>Etapa: Secundaria. Curso: 1º ESO</p>\n<p>Materia: Biología y Geología</p>\n<p>Agrupamiento: pequeño grupo, gran grupo. Grupos heterogéneos; equipos flexibles.</p>\n<p>Temporalización: 10 sesiones. </p>\n<p>Descripción de los productos:</p>\n<p>- infografía en Canva: realización simultánea entre toda la clase utilizando una plantilla preparada  y compartida por la profesora. </p>\n<p>- breakout digital con Genially: dado que el nivel de competencia digital del alumnado es muy bajo, se facilitará material para ayudar en la realización de la tarea.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0gd6ke-l3wmeo068</odePageId>
+  <odeParentPageId>page-mo0gd6k1-nvu7xun1z</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6ke-l3wmeo068</odePageId>
+      <odeBlockId>block-1775814821667-0nw3a1lug</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6ke-l3wmeo068</odePageId>
+          <odeBlockId>block-1775814821667-0nw3a1lug</odeBlockId>
+          <odeIdeviceId>idevice-1775814821665-gtsaoc64c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Justificación de su desarrollo y el impacto esperado.</p>
+<p>Esta situación de aprendizaje pretende:</p>
+<p>-que el alumnado valore las contribuciones científicas, e identifique las diferencias en cuanto a género en las investigaciones llevadas a cabo a lo largo de la historia. </p>
+<p>-que el alumnado analice el impacto ambiental del uso excesivo de envases en productos cotidianos y desarrolle hábitos sostenibles a partir de la reflexión crítica.</p>
+<p>Por medio de la infografía, se iniciarán en el uso de aplicaciones gráficas y trabajarán aspectos como la importancia de las investigaciones científicas independientemente del género. </p>
+<p>A través de la creación de un breakout digital, el alumnado no solo investigará y organizará información, sino que también interpretará resultados (por ejemplo, datos sobre residuos generados, reciclaje o consumo), desarrollando competencias científicas y digitales.</p>
+<p>El impacto esperado es que el alumnado:</p>
+<p>Comprenda las consecuencias ambientales del consumo diario.<br />Sea capaz de interpretar datos relacionados con residuos y sostenibilidad.<br />Adopte hábitos responsables en su vida cotidiana.<br />Desarrolle creatividad y pensamiento crítico mediante el diseño de retos.</p>
+<p><br />Relación de la SdA con los ODS y Retos del siglo XXI: </p>
+<p>Esta SdA se vincula con los siguientes Objetivos de Desarrollo Sostenible (ODS):</p>
+<p>ODS 4: Educación de calidad</p>
+<p>ODS 5: Igualdad de género </p>
+<p>ODS 12: Producción y consumo responsables </p>
+<p>ODS 13: Acción por el clima</p>
+<p>ODS 14: Vida submarina </p>
+<p>ODS 15: Vida de ecosistemas terrestres </p>
+<p>Retos del siglo XXI:</p>
+<p>Conciencia ambiental y sostenibilidad</p>
+<p>Igualdad de género</p>
+<p>Alfabetización científica</p>
+<p>Pensamiento crítico ante problemas globales</p>
+<p>Crisis ambiental y sostenibilidad</p>
+<p>Consumo responsable</p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775814821665-gtsaoc64c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Justificación de su desarrollo y el impacto esperado.</p>\n<p>Esta situación de aprendizaje pretende:</p>\n<p>-que el alumnado valore las contribuciones científicas, e identifique las diferencias en cuanto a género en las investigaciones llevadas a cabo a lo largo de la historia. </p>\n<p>-que el alumnado analice el impacto ambiental del uso excesivo de envases en productos cotidianos y desarrolle hábitos sostenibles a partir de la reflexión crítica.</p>\n<p>Por medio de la infografía, se iniciarán en el uso de aplicaciones gráficas y trabajarán aspectos como la importancia de las investigaciones científicas independientemente del género. </p>\n<p>A través de la creación de un breakout digital, el alumnado no solo investigará y organizará información, sino que también interpretará resultados (por ejemplo, datos sobre residuos generados, reciclaje o consumo), desarrollando competencias científicas y digitales.</p>\n<p>El impacto esperado es que el alumnado:</p>\n<p>Comprenda las consecuencias ambientales del consumo diario.<br />Sea capaz de interpretar datos relacionados con residuos y sostenibilidad.<br />Adopte hábitos responsables en su vida cotidiana.<br />Desarrolle creatividad y pensamiento crítico mediante el diseño de retos.</p>\n<p><br />Relación de la SdA con los ODS y Retos del siglo XXI: </p>\n<p>Esta SdA se vincula con los siguientes Objetivos de Desarrollo Sostenible (ODS):</p>\n<p>ODS 4: Educación de calidad</p>\n<p>ODS 5: Igualdad de género </p>\n<p>ODS 12: Producción y consumo responsables </p>\n<p>ODS 13: Acción por el clima</p>\n<p>ODS 14: Vida submarina </p>\n<p>ODS 15: Vida de ecosistemas terrestres </p>\n<p>Retos del siglo XXI:</p>\n<p>Conciencia ambiental y sostenibilidad</p>\n<p>Igualdad de género</p>\n<p>Alfabetización científica</p>\n<p>Pensamiento crítico ante problemas globales</p>\n<p>Crisis ambiental y sostenibilidad</p>\n<p>Consumo responsable</p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0gd6ki-ptopqa0rn</odePageId>
+  <odeParentPageId>page-mo0gd6k1-nvu7xun1z</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6ki-ptopqa0rn</odePageId>
+      <odeBlockId>block-1775814922023-l1jdyzj7b</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6ki-ptopqa0rn</odePageId>
+          <odeBlockId>block-1775814922023-l1jdyzj7b</odeBlockId>
+          <odeIdeviceId>idevice-1775814922020-uyni3823l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🔹 Competencias clave (perfil de salida)</p>
+<p>CCL <br />STEM <br />CD <br />CPSAA <br />CC <br />CE <br />CCEC </p>
+<p>Competencias específicas (Biología y Geología 1º ESO)</p>
+<p>CE1</p>
+<p>CE2</p>
+<p>CE3</p>
+<p>CE5</p>
+<p>Saberes básicos</p>
+<p>La ciencia como actividad humana: características y evolución.</p>
+<p>El trabajo científico: observación, investigación y comunicación.</p>
+<p>La importancia de la conservación del medio ambiente.</p>
+<p>Mujeres científicas y su contribución histórica.</p>
+<p>Uso responsable de fuentes de información. Uso de herramientas digitales para comunicar información.</p>
+<p>Impacto ambiental de la actividad humana.</p>
+<p>Residuos: tipos, gestión y reciclaje.</p>
+<p>Consumo responsable y sostenibilidad.</p>
+<p>Criterios de evaluación</p>
+<p>2.3. Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo en papel de las mujeres científicas y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución.</p>
+<p>3.4. Interpretar los resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas</p>
+<p><br />5.2. Proponer y adoptar hábitos sostenibles analizando de una manera crítica las actividades propias y ajenas a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775814922020-uyni3823l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🔹 Competencias clave (perfil de salida)</p>\n<p>CCL <br />STEM <br />CD <br />CPSAA <br />CC <br />CE <br />CCEC </p>\n<p>Competencias específicas (Biología y Geología 1º ESO)</p>\n<p>CE1</p>\n<p>CE2</p>\n<p>CE3</p>\n<p>CE5</p>\n<p>Saberes básicos</p>\n<p>La ciencia como actividad humana: características y evolución.</p>\n<p>El trabajo científico: observación, investigación y comunicación.</p>\n<p>La importancia de la conservación del medio ambiente.</p>\n<p>Mujeres científicas y su contribución histórica.</p>\n<p>Uso responsable de fuentes de información. Uso de herramientas digitales para comunicar información.</p>\n<p>Impacto ambiental de la actividad humana.</p>\n<p>Residuos: tipos, gestión y reciclaje.</p>\n<p>Consumo responsable y sostenibilidad.</p>\n<p>Criterios de evaluación</p>\n<p>2.3. Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo en papel de las mujeres científicas y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución.</p>\n<p>3.4. Interpretar los resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas</p>\n<p><br />5.2. Proponer y adoptar hábitos sostenibles analizando de una manera crítica las actividades propias y ajenas a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0gd6kk-mf06q24m2</odePageId>
+  <odeParentPageId>page-mo0gd6k1-nvu7xun1z</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6kk-mf06q24m2</odePageId>
+      <odeBlockId>block-1775815074481-0ixwof2px</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6kk-mf06q24m2</odePageId>
+          <odeBlockId>block-1775815074481-0ixwof2px</odeBlockId>
+          <odeIdeviceId>idevice-1775815074479-xx41jtbce</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aprendizaje cooperativo (trabajo en parejas o grupos).</p>
+<p>Aprendizaje basado en investigación (búsqueda guiada de información).</p>
+<p>Aprendizaje Basado en Proyectos (ABP)</p>
+<p>Gamificación</p>
+<p>Aprendizaje basado en investigación</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775815074479-xx41jtbce","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aprendizaje cooperativo (trabajo en parejas o grupos).</p>\n<p>Aprendizaje basado en investigación (búsqueda guiada de información).</p>\n<p>Aprendizaje Basado en Proyectos (ABP)</p>\n<p>Gamificación</p>\n<p>Aprendizaje basado en investigación</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0gd6kn-mf17iq8b2</odePageId>
+  <odeParentPageId>page-mo0gd6k1-nvu7xun1z</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6kn-mf17iq8b2</odePageId>
+      <odeBlockId>block-1775817377542-qqck3wx66</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6kn-mf17iq8b2</odePageId>
+          <odeBlockId>block-1775817377542-qqck3wx66</odeBlockId>
+          <odeIdeviceId>idevice-1775817377540-0wkntm3kv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PLEI</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775817377540-0wkntm3kv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PLEI</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0gd6kp-eu6cjgo98</odePageId>
+  <odeParentPageId>page-mo0gd6k1-nvu7xun1z</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6kp-eu6cjgo98</odePageId>
+      <odeBlockId>block-1775817448069-ijrzc734q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6kp-eu6cjgo98</odePageId>
+          <odeBlockId>block-1775817448069-ijrzc734q</odeBlockId>
+          <odeIdeviceId>idevice-1775817448068-mewqe1ad3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>No hay actividades complementarias ni extraescolares relacionadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775817448068-mewqe1ad3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>No hay actividades complementarias ni extraescolares relacionadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo0gd6kr-zuoj81r0c</odePageId>
+  <odeParentPageId>page-mo0gd6k1-nvu7xun1z</odeParentPageId>
+  <pageName>Incluye la atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Incluye la atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Incluye la atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo0gd6kr-zuoj81r0c</odePageId>
+      <odeBlockId>block-1776151100036-bkg9mvdyp</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo0gd6kr-zuoj81r0c</odePageId>
+          <odeBlockId>block-1776151100036-bkg9mvdyp</odeBlockId>
+          <odeIdeviceId>idevice-1776015707842-ytydkx513</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA:&nbsp;"Cuidado del planeta: pasado y futuro"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
